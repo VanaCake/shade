@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="janColor">#75130C</color>
+    <color name="febColor">#6F428F</color>
+    <color name="marColor">#52C8D3</color>
+    <color name="aprColor">#C6EEE8</color>
+    <color name="mayColor">#007036</color>
+    <color name="junColor">#C08EE4</color>
+    <color name="julColor">#CC1406</color>
+    <color name="augColor">#46FF1C</color>
+    <color name="sepColor">#1052B6</color>
+    <color name="octColor">#FF2FAC</color>
+    <color name="novColor">#FFAA16</color>
+    <color name="decColor">#00AC83</color>
+</resources>
